@@ -1,2 +1,2 @@
 # Day-25-26
-Everythinh is possible
+Everything is possible
